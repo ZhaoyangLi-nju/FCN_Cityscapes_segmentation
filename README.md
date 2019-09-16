@@ -1,1 +1,1 @@
-# FCN_Cityscapes_segmentation
+#translate-to-seg
